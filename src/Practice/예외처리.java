@@ -1,4 +1,4 @@
-package practice;
+package Practice;
 
 public class 예외처리 {
 	public static void main(String[] args){

@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class ¿¬½À {
+public class ì—°ìŠµ {
 		
 		public static String getScrambledWord(String str) { 
 			 Set set = new HashSet();
