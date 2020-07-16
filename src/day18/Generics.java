@@ -10,5 +10,5 @@ public class Generics {
 class FruitBox<T>{}
 class Fruit implements Eat{}
 class Apple extends Fruit {}
-class FruitBoc<T extends Fruit & Eat>{}
+class FruitBox<T extends Fruit & Eat>{}
 interface Eat{}
