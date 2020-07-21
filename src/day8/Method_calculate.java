@@ -32,7 +32,7 @@ public class Method_calculate {
 	
 	//다른 방법
 	public static double calculate (int num1, int num2, char op){
-		double res=0;
+		double res=0.0;
 		switch (op) {
 		case '+': res=num1+num2; break;
 		case '-': res=num1-num2; break;
