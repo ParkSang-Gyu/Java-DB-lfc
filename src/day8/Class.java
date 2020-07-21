@@ -42,7 +42,7 @@ class Tv{
 	//멤버 메소드:기능
 	
 	//객체를 만드는 방법
-	//클래스 객체명 = new 크래스();
+	//클래스 객체명 = new 래스();
 	
 	private int channel;
 	private int volume;
