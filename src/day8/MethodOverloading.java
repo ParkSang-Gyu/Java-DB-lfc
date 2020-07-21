@@ -38,7 +38,7 @@ public class MethodOverloading {
 	
 	//기능:세 정수의 합을 알려주는 기능
 	//매개변수:int num1, int num2, int num3
-	//리턴타입:int
+	//리턴타입:double
 	//메소드명:sum
 	
 	public static double sum (double num1, double num2, double num3){
@@ -56,12 +56,12 @@ public class MethodOverloading {
 			System.out.println(num+" x "+i+" = "+num*i);
 		}
 	}
+	
 	//기능:2단에서 9단 중 원하는 단을 출력하는 기능(start단에서 end단을 출력하는 기능)
 	//매개변수:2단에서 9단=정수=>int start, int end
 	//리턴타입:void
 	//메소드명:printMultiTables
 	
-
 	public static void printMultiTables (int start, int end){
 		for (int i=start;i<=end;i++){
 			printMultiTable(i);
